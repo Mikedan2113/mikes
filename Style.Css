@@ -48,7 +48,7 @@ body{
     content: " ";
     width: 0;
     height: 3px;
-    background-color: #262262;
+    background-color:  #fff200;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -115,7 +115,7 @@ body{
   content:'';
   width: 0%;
   height: 3px;
-  background-color: #21409a;
+  background-color: #fff200;
   position: absolute;
   left: 0;
   bottom: -8px;
@@ -129,7 +129,7 @@ body{
   margin: 10px 0;
 }
 .tab-contents ul li span{
-  color: #21409a;
+  color: #fff200;
   font-size: 17px;
 }
 .tab-contents{
@@ -149,7 +149,7 @@ body{
   margin-top: 50px;
 }
 .services-list div{
-  background:#21409a;
+  background:#a5aa33;
   padding: 40px;
   font-size: 13px;
   font-weight: 300;
@@ -173,7 +173,7 @@ body{
   display: inline-block;
 }
 .services-list div:hover{
- background:#21409a;
+ background: #a0a80b;
  transform: translateY(-10px);
 }
 /*-------Portfolio---------*/
@@ -200,7 +200,7 @@ body{
 .layer{
   width: 100%;
   height: 0%;
-  background: linear-gradient(rgba(0,0,0,0.6), #21409a);
+  background: linear-gradient(rgba(0,0,0,0.6), #a0a80b);
   border-radius: 10px;
   position: absolute;
   left: 0;
@@ -221,7 +221,7 @@ body{
 }
 .layer a{
   margin: 20px;
-  color: #21409a;
+  color:  #a0a80b;
   text-decoration: none;
   font-size: 18px;
   line-height: 60px;
@@ -241,7 +241,7 @@ body{
   display: block;
   margin: 50px auto;
   width: fit-content;
-  border: 1px solid #21409a;
+  border: 1px solid #a0a80b;
   padding: 14px 50px;
   border-radius: 6px;
   text-decoration: none;
@@ -262,7 +262,7 @@ body{
   margin-top: 30px;
 }
 .contact-left p i{
-  color: #21409a;
+  color: #a0a80b;
   margin-right: 15px;
   font-size: 25px;
 }
@@ -278,12 +278,12 @@ body{
   transition: transform 0.5s;
 }
 .social-icons a:hover{
-  color: #21409a;
+  color:  #a0a80b;
   transform: translateY(-5px);
 }
 .btn.btn2{
   display: inline-block;
-  background: #21409a;
+  background: #a0a80b;
 }
 .contact-right form{
   width: 100%;
@@ -337,7 +337,7 @@ nav .fa-solid{
     font-size: 25px;
   }
   nav ul {
-    background: #21409a;
+    background: #a0a80b;
     position: fixed;
     top: 0;
     right: -200px;
